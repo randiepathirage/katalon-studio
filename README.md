@@ -15,7 +15,10 @@ biggest advantage of katalon. It has lot of useful functionalities
 Same as uft
 
 * Easy to use
-  Katalon is user friendly tool even a beginner can easily understand. Its very easy to start and maintain automation . Lot of things we can do by just drag and drop
+Katalon is user friendly tool with rich graphics with tree views, tables, and menus even a beginner can easily understand. Its very easy to start and maintain automation . Lot of things we can do by just drag and drop
+
+
+
 
 * built-in integrations with various platforms
 
@@ -33,10 +36,16 @@ Katalon Studio has a system of built-in integrations with various platforms such
 
 
 * Very basic coding is required
+Unlike other testing tools Katalon Studio is a flexible tool for users either with or without coding skills.
+Those with minimal programming experience can drag-drop, select keywords, and test objects to form test steps
 
-Unlike elenimun , Even though u are not good in coding still u can do lot of tasks in katalon
 * Build in keywords
+Katalon Studio offers a library with more than hundreds of built-in keywords covering all web, mobile, desktop, and API testing that simplifies the test automation for your project. Also it helps to save time
+
 * Build in reporting 
+And the katalon has their own built in reporting system.,katalon analytics.we can create Comprehensive and Dynamic Testing Reports by using katalon
+when we take about selinum and most of the other testing softwares if we want to generate report have to intrgrate with other reports
+
 * Giving support of Flash, Flex, Angular JS
 * Allow execution of any opened session
 * Support parallel execution
