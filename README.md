@@ -4,6 +4,9 @@
 
 * Supports different kinds of applications
 
+![image](https://user-images.githubusercontent.com/52100121/71776020-f8e8a580-2faf-11ea-827c-60bf0969542c.png)
+
+
   it support web base application, it also support mobile application automation in mobile we can go for either android or iOS, also support web services automation actually this is a single tool which gives alternation to many other tools like if u talk about  selenium that is giving support only on web base and if we talk about soapUI that is giving support only web services
 
 * Free
