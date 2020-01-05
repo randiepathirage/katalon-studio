@@ -17,14 +17,20 @@ Same as uft
 * Easy to use
   Katalon is user friendly tool even a beginner can easily understand. Its very easy to start and maintain automation . Lot of things we can do by just drag and drop
 
-* Support easy integration with external tool
+* built-in integrations with various platforms
 
 Direct integration, useful in end to end automation
+
+Katalon Studio has a system of built-in integrations with various platforms such as Jira, Jenkins, qTest,,Slack and so on, that helps optimize automation efficiency.
 
       Git     
       Jira
       Jenkins
-    
+      Qtest
+      slack
+      TeamCity
+   
+
 
 * Very basic coding is required
 
